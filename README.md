@@ -1,6 +1,6 @@
 # Python-Week
 
-git clone 
+git clone https://github.com/Nishchal-007/Python-Week.git
 
 make a virtualenv --> pip install virtualenv --> virtualenv testEnv --> cd testEnv/Scripts/activate
 
